@@ -1,5 +1,5 @@
 {
-	"name": "pceuropa/yii2-menu",
+	"name": "hornetalcala/yii2-menu",
 	"description": "Menu bootstrap creator/manager. Sort by drag and drop",
 	"keywords": [
 		"yii2",
@@ -9,10 +9,10 @@
 		"bootstrap menu"
 	],
 	"version": "1.2.0",
-	"homepage": "https://github.com/pceuropa/yii2-menu",
+	"homepage": "https://github.com/hornetalcala/yii2-menu",
 	"type": "yii2-extension",
 	"license": "MIT",
-	"minimum-stability": "dev",
+	"minimum-stability": "beta",
 	"authors": [
 		{
 		  "name": "Rafal Marguzewicz",
